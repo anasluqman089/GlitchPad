@@ -29,19 +29,27 @@ Matrix rain on a tiny screen, buttons that trigger glitches and sirens, and a re
 # Functions
 
 When you turn it on,
+
 It pretends to "boot up" like the Matrix movie and show the text "WAKE UP, NEO..." on the screen with glitchy beeps
 
 When idle,
+
 The screen shows falling Matrix-style rain and every few seconds your room temperature/humidity flickers inside it.
 
 The 4 buttons
+
 1	- Shows "WAKE UP, NEO... THE MATRIX HAS YOU"
+
 2 -	Glitch attack — screen goes crazy + static noise
+
 3 -	Shows real sensor data (temp, humidity, pressure)
+
 4	- Flashing alarm "SYSTEM BREACH" + siren 
 
 The knob
+
 Turn it - adjusts LED brightness
+
 Click it - makes the Matrix rain fall faster
 
 
@@ -62,13 +70,17 @@ Click it - makes the Matrix rain fall faster
 # The 3D Model
 
 The full model
+
 <img width="611" height="435" alt="image" src="https://github.com/user-attachments/assets/7f142d96-b20b-4f60-a468-0b6aa7f78371" />
 
 The lid
+
 <img width="379" height="274" alt="image" src="https://github.com/user-attachments/assets/4c0bc706-502a-48c5-b5ab-97f674ed0871" />
 
 The bottom and front
+
 <img width="530" height="319" alt="image" src="https://github.com/user-attachments/assets/fbe9b394-06e5-4462-a08a-99a39c406215" />
 
 The body and screw hole for the PCB
+
 <img width="443" height="306" alt="image" src="https://github.com/user-attachments/assets/14bf400c-1791-4396-915c-61c01cf2a47c" />
