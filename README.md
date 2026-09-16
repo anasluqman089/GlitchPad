@@ -1,6 +1,7 @@
 # GlitchPad
 
-<img width="707" height="395" alt="image" src="https://github.com/user-attachments/assets/e8b17420-6c6f-46f1-9c54-f5ad18b08c5c" />
+<img width="669" height="496" alt="image" src="https://github.com/user-attachments/assets/4a053fcf-d6d1-433b-97e2-4f03573cd784" />
+
 
 It is inspire by the movie Matrix 
 
@@ -24,6 +25,10 @@ Matrix rain on a tiny screen, buttons that trigger glitches and sirens, and a re
 1x BME280 breakout board
 
 1x O.91 0LED Screen (Blue)
+
+4x M2 screw
+
+4x M3 screw
 
 
 # Functions
@@ -71,16 +76,13 @@ Click it - makes the Matrix rain fall faster
 
 The full model
 
-<img width="611" height="435" alt="image" src="https://github.com/user-attachments/assets/7f142d96-b20b-4f60-a468-0b6aa7f78371" />
+<img width="669" height="496" alt="image" src="https://github.com/user-attachments/assets/2cee83fb-68ef-4155-9a57-54f452a7c459" />
 
 The lid
 
-<img width="379" height="274" alt="image" src="https://github.com/user-attachments/assets/4c0bc706-502a-48c5-b5ab-97f674ed0871" />
+<img width="626" height="429" alt="image" src="https://github.com/user-attachments/assets/ca1070fc-b4de-49b5-908c-4ead9b3daaa0" />
 
-The bottom and front
+The body
 
-<img width="530" height="319" alt="image" src="https://github.com/user-attachments/assets/fbe9b394-06e5-4462-a08a-99a39c406215" />
+<img width="715" height="474" alt="image" src="https://github.com/user-attachments/assets/f7d6026d-7494-4846-8643-3f4fcd6693a5" />
 
-The body and screw hole for the PCB
-
-<img width="443" height="306" alt="image" src="https://github.com/user-attachments/assets/14bf400c-1791-4396-915c-61c01cf2a47c" />
