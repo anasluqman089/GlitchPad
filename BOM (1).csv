@@ -1,0 +1,8 @@
+Item,Part / Description,Qty,Manufacturer / Suggested Source,Link
+1,Seeed Studio XIAO ESP32-S3 Sense,1,Seeed Studio,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+2,"Rotary encoder, 3-pin",1,Generic / local electronics supplier,https://www.google.com/search?q=3+pin+rotary+encoder+module
+3,MAX17043 LiPo fuel-gauge module,1,SparkFun,https://www.sparkfun.com/products/17855
+4,"1000 mAh 3.7 V LiPo battery, 1-cell",1,Seeed Studio / equivalent,https://www.seeedstudio.com/1000mAh-3-7V-Lipo-Battery-p-4863.html
+5,"THT tactile push button, 4-pin",4,Generic / local electronics supplier,https://www.google.com/search?q=4+pin+THT+tactile+push+button
+6,"0.96-inch 128×64 OLED, I2C",1,Adafruit,https://www.adafruit.com/product/326
+7,"Standard through-hole LED, 3 mm or 5 mm",2,Generic / local electronics supplier,https://www.google.com/search?q=5mm+THT+LED
